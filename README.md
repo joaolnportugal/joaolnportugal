@@ -20,6 +20,7 @@
 	<img align="center" alt="tuga-react" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 	<img align="center" alt="tuga-spring" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 	<img align="center" alt="tuga-tomcat" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
+	<img align="right" alt="tuga-gameboygif" height="600" width="450" src="https://media3.giphy.com/media/MEXw0ZgVI2XE9sC5jG/giphy.gif" />
 </div>
 
 ##
