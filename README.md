@@ -3,7 +3,7 @@
 #### Junior Fullstack Developer
 ![Junior Fullstack Developer taking his first steps!])
 
-- 💬 Ask me about Anything I can help with!
+- 💬 Ask away!
 - 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/joaolnportugal/)
 - 😄 Pronouns: He/Him
 
