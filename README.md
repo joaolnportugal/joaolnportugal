@@ -1,12 +1,12 @@
 ### Hi 👋 ###
 ### My name is João! ###
-#### Junior Fullstack Developer
+#### FrontEnd Developer
 
 <img align="right" alt="tuga-gameboygif" height="300" width="200" src="https://media3.giphy.com/media/MEXw0ZgVI2XE9sC5jG/giphy.gif" />
 
 - 💬 Ask away!
 - 📫 How to reach me: [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='linkedin' height='20'>](https://www.linkedin.com/in/joaolnportugal/)   joaolnportugal
-- 😄 Pronouns: He/Him
+
 
 <div style="display: inline_block"><br>
 	<img align="center" alt="tuga-bootstrap" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
