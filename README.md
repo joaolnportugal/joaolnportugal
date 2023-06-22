@@ -1,6 +1,6 @@
 ### Hi 👋 ###
 ### My name is João! ###
-#### FrontEnd Developer
+#### Frontend Developer
 
 <img align="right" alt="tuga-gameboygif" height="300" width="200" src="https://media3.giphy.com/media/MEXw0ZgVI2XE9sC5jG/giphy.gif" />
 
