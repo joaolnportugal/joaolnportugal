@@ -15,12 +15,9 @@
 	<img align="center" alt="tuga-html" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 	<img align="center" alt="tuga-java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 	<img align="center" alt="tuga-js" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<img align="center" alt="tuga-mysql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-	<img align="center" alt="tuga-nodejs" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-	<img align="center" alt="tuga-npm" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+	<img align="center" alt="tuga-rn" height="60" width="50" src="https://www.dropbox.com/s/4lab04eye23d5yt/1631026680-logo-react-native.png?dl=0" />
 	<img align="center" alt="tuga-react" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	<img align="center" alt="tuga-spring" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-	<img align="center" alt="tuga-tomcat" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
+	
 	
 </div>
 
