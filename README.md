@@ -17,7 +17,8 @@
 	<img align="center" alt="tuga-js" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 	<img align="center" alt="tuga-rn" height="60" width="90" src="https://www.dropbox.com/s/4lab04eye23d5yt/1631026680-logo-react-native.png?raw=1" />
 	<img align="center" alt="tuga-typescript" height="70" width="70" src="https://www.dropbox.com/s/590fs1tt9isyaxx/icons8-typescript-48.png?raw=1" />
-	<img align="center" alt="tuga-typescript" height="50" width="50" src="https://www.dropbox.com/s/pxv7pfuyl7egkid/expo%20app.png?raw=1" />
+	<img align="center" alt="tuga-expo" height="50" width="50" src="https://www.dropbox.com/s/pxv7pfuyl7egkid/expo%20app.png?raw=1" />
+	<img align="center" alt="tuga-csharp" height="50" width="50" src="https://www.dropbox.com/s/jtgf3zpvaz6gk39/Csharp_Logo.png?raw=1" />
 
 	
 	
