@@ -15,7 +15,7 @@
 	<img align="center" alt="tuga-html" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 	<img align="center" alt="tuga-java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 	<img align="center" alt="tuga-js" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<img align="center" alt="tuga-rn" height="60" width="50" src="https://www.dropbox.com/s/4lab04eye23d5yt/1631026680-logo-react-native.png" />
+	<img align="center" alt="tuga-rn" height="60" width="50" src="https://www.dropbox.com/s/4lab04eye23d5yt/1631026680-logo-react-native.png?raw=1" />
 	<img align="center" alt="tuga-react" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 	
 	
