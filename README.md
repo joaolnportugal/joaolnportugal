@@ -29,7 +29,7 @@
   
 
 
-/*![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolnportugal&show_icons=true&theme=dark)*/
+<! -- ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolnportugal&show_icons=true&theme=dark) -->
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolnportugal&layout=compact&theme=dark)](https://github.com/joaolnportugal/github-readme-stats)
 
