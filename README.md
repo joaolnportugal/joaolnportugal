@@ -13,7 +13,7 @@
 	<img align="center" alt="tuga-css" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
 	<img align="center" alt="tuga-firebase" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 	<img align="center" alt="tuga-html" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-	<img align="center" alt="tuga-styled-components" height="60" width="50" src="https://www.dropbox.com/scl/fi/3t8cz29vlenfumi4q34f3/styled-components.png?rlkey=l42w054l6ugagl533xhn9qowz&dl=0" />
+	<img align="center" alt="tuga-styled-components" height="60" width="50" src="https://www.dropbox.com/scl/fi/3t8cz29vlenfumi4q34f3/styled-components.png?rlkey=l42w054l6ugagl533xhn9qowz&e=2&raw=1" />
 	<img align="center" alt="tuga-js" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 	<img align="center" alt="tuga-jest" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 	<img align="center" alt="tuga-rn" height="60" width="90" src="https://www.dropbox.com/s/4lab04eye23d5yt/1631026680-logo-react-native.png?raw=1" />
