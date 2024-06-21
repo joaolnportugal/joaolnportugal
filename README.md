@@ -2,7 +2,7 @@
 ### My name is João! ###
 #### Frontend Developer
 
-<img align="right" alt="tuga-gameboygif" height="300" width="200" src="https://media3.giphy.com/media/MEXw0ZgVI2XE9sC5jG/giphy.gif" />
+<!-- <img align="right" alt="tuga-gameboygif" height="300" width="200" src="https://media3.giphy.com/media/MEXw0ZgVI2XE9sC5jG/giphy.gif" /> -->
 
 - 💬 Ask away!
 - 📫 How to reach me: [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt='linkedin' height='20'>](https://www.linkedin.com/in/joaolnportugal/)   joaolnportugal
